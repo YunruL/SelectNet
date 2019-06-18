@@ -9,6 +9,6 @@ code repo for [SelectNet: Learning to Sample from the Wild for Imbalanced Data T
 Run training.py to excute training
 
 ```
-python training.py SelectNet --iteration 30 -- model res32
+python training.py SelectNet --iteration 30 --model res32
 ```
 
