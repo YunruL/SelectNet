@@ -6,8 +6,9 @@ code repo for [SelectNet: Learning to Sample from the Wild for Imbalanced Data T
 * Keras >= 2.2
 
 ### Usage
+Run training.py to excute training
 
-'''
+```
 python training.py SelectNet --iteration 30 -- model res32
-'''
+```
 
